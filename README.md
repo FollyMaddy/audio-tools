@@ -1,7 +1,7 @@
 # audio-tools
 For now, audacity label changing for audio-files
 
-1)
+
 Program : audacity-label-changer.py
 Version : 1.3
 Use : 
