@@ -66,7 +66,7 @@ print "\n"
 # get labelfile for use in commandline
 root = tk.Tk()
 root.withdraw()
-labelfile = tkFileDialog.askopenfilename(initialdir = '~/Desktop/mijn_sh_scripts/YTdl-bash/NA-bak/split en labels test - Technotronic - Trip On This - Remix Album_backup', filetypes=[('Supported types',('.txt'))], title='Load audacity label point file')
+labelfile = tkFileDialog.askopenfilename(initialdir = '~/Music', filetypes=[('Supported types',('.txt'))], title='Load audacity label point file')
 print labelfile
 
 print "\n"
